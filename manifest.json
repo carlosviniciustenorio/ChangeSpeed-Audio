@@ -1,0 +1,24 @@
+{
+    "manifest_version": 2,
+    "description": "Com o ChangeSpeed Audio você pode editar a velocidade dos áudios para 2X no WhatsApp Web.",
+    "name":"ChangeSpeed Audio",
+    "version": "1.0",
+    "author": "Carlos Vinícius Tenorio",
+    "browser_action": {
+   	 "default_title": "ChangeSpeed Audio",
+   	 "default_popup": "index.html"
+    },
+    "content_scripts": [
+        {
+            "matches":[
+                "https://web.whatsapp.com/"
+            ],
+            "css": [
+                "style.css"
+            ],
+            "js": [
+                "content.js"
+            ]
+        }
+    ]
+}
