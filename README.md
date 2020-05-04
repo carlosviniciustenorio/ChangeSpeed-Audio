@@ -1,5 +1,5 @@
 # ChangeSpeed-Audio
-ChangeSpeed-Audio é uma extensão para o navageador Google Chrome, utilizada no site do WhatsApp Web. Com ele você pode editar a velocidade dos áudios para 2X no WhatsApp Web.
+ChangeSpeed-Audio é uma extensão para o navageador Google Chrome, utilizada no site do WhatsApp Web. Com ele você pode editar a velocidade dos áudios para 2X.
 
 Para utilizar é necessário clonar/baixar o repositório e extrair a pasta com os arquivos para: Google Chrome > Extensões > Ativar o "Modo Desenvolvedor" no canto superior direito da tela > arrastar a pasta do projeto para a tela do Chrome.
 
