@@ -1,0 +1,15 @@
+.buttonSpeed{
+    color: #919191;
+    font-size: 1.1em;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 0.5em;
+}
+
+.buttonSpeed p:hover {
+    color:#07bc4c;
+    transition: 0.5s;
+}
+
+.buttonSpeed p:hover:hover {
+    transition: 0.5s;
+}
