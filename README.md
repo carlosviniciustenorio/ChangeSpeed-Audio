@@ -3,7 +3,7 @@ ChangeSpeed-Audio é uma extensão para o navageador Google Chrome, utilizada no
 
 Para utilizar é necessário:
 
-1- clonar/baixar o repositório
+1- Clonar/baixar o repositório
 
 2- Google Chrome > Extensões > Ativar o "Modo Desenvolvedor"
 
